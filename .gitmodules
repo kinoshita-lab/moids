@@ -3,7 +3,7 @@
 	url = https://github.com/kinoshita-lab/moids1.0
 [submodule "2.x.x"]
 	path = 2.x.x
-	url = https://github.com/kinoshita-lab/moids2.x.x
+	url = https://github.com/kinoshita-lab/moids2.x.x	
 [submodule "infinity"]
 	path = infinity
-	url = https://github.com/kinoshita-lab/moids_infinity
+	url = https://github.com/kinoshita-lab/moids_infinity	
